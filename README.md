@@ -8,11 +8,16 @@ https://www.youtube.com/watch?v=dQw4w9WgXcQ
 # *These are my top 3 most visited sites on my school account*
 https://clock.facey.rocks/, https://www.eips.ca/, https://www.google.com/?safe=active&ssui=on and, https://docs.google.com/presentation/u/0/?tgif=d
 
--
-
-
-
-
-----------
- |      |
- 
+# unordered list
+- apple 1
+- apple 2
+- apple 2.1
+- apple 2.2
+- apple 3
+- apple 4
+# ordered list
+1. apple
+2. apple
+2. apple 2.1
+2. apple 2.2
+3. apple
