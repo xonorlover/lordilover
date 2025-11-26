@@ -21,3 +21,17 @@ https://clock.facey.rocks/, https://www.eips.ca/, https://www.google.com/?safe=a
 2. apple 2.1
 2. apple 2.2
 3. apple
+
+# Table
+| first name | middle name | last name | age |
+|---|:---:|---:|---:|
+| Jamal | quantavious | jackson  | 25 |
+| dexter | aurther | morgan | 35 |
+| liam | james | feuffel | 4 |
+
+# Table 2
+| first name | middle name | last name |
+|---|---|---|
+| Brody | Fredrick | Enns |
+| Mason | ludwig | diesil |
+|
