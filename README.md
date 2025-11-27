@@ -35,3 +35,11 @@ https://clock.facey.rocks/, https://www.eips.ca/, https://www.google.com/?safe=a
 | Brody | Fredrick | Enns |
 | Mason | ludwig | diesil |
 | Jake  | the legend | mathison |
+
+
+<img width="500" height="464" alt="image" src="https://github.com/user-attachments/assets/821db008-e567-490c-b0ab-2f1494c25742" />
+
+https://careerswithstem.com.au/computer-science-memes/   4.
+
+
+https://www.youtube.com/watch?v=1yMozrDEqbg
