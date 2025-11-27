@@ -41,5 +41,4 @@ https://clock.facey.rocks/, https://www.eips.ca/, https://www.google.com/?safe=a
 
 https://careerswithstem.com.au/computer-science-memes/   4.
 
-
-
+https://youtu.be/1yMozrDEqbg?si=X9uumK0VB0e5mtbf
