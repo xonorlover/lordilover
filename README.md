@@ -43,4 +43,4 @@ $${\color{red}I \space Love \space Lordi \space \space and\space they\space are\
 2. a client is software that uses a server that tells the server what to do and a server is either a physical machine that stores data or its software based server that does what the client tells it to do
 3. <img width="493" height="279" alt="image" src="https://github.com/user-attachments/assets/97deb803-cba5-454a-adae-8b9581878563" />
 4. The ICP/IP model 4 layer network the use date to communicate over the internet, making client and server relationship by breaking data into packets, sending them to thier destination and putting them back together at their destination
-5.  
+5. Gmail, Email and the cloud
