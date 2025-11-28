@@ -32,7 +32,7 @@ https://clock.facey.rocks/, https://www.eips.ca/, https://www.google.com/?safe=a
 # Table 2 of friends names
 | first name | middle name | last name |
 |---|---|---|
-| Brody | Fredrick | Enns |
+| Brody | Benjamin | Enns |
 | Mason | ludwig | diesil |
 | Jake  | the legend | mathison |
 
