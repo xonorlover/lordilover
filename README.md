@@ -2,8 +2,10 @@
 # My top 5 favourite bands in order are
 Xonor, Lordi, Powerwolf, Metallica, Megadeth
 
-# ***My favourite Youtube video is***
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+# ***My two favourite Youtube videos are***
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Watch the video](https://img.youtube.com/vi/1yMozrDEqbg/0.jpg)](https://www.youtube.com/watch?v=1yMozrDEqbg)
+
 
 # *These are my top 3 most visited sites on my school account*
 https://clock.facey.rocks/, https://www.eips.ca/, https://www.google.com/?safe=active&ssui=on and, https://docs.google.com/presentation/u/0/?tgif=d
@@ -41,4 +43,10 @@ https://clock.facey.rocks/, https://www.eips.ca/, https://www.google.com/?safe=a
 
 https://careerswithstem.com.au/computer-science-memes/   4.
 
-https://youtu.be/1yMozrDEqbg?si=X9uumK0VB0e5mtbf
+
+$${\color{red}I \space Love \space Lordi \space \space and\space they\space are\space a\space great\space \space band.}$$ 
+
+# Theory
+
+
+
