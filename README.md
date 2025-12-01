@@ -5,7 +5,7 @@ Xonor, Lordi, Powerwolf, Metallica, Megadeth
 [![Watch the video](https://img.youtube.com/vi/t6OBk9YBLQU/0.jpg)](https://www.youtube.com/watch?v=t6OBk9YBLQU)
 [![Watch the video](https://img.youtube.com/vi/1yMozrDEqbg/0.jpg)](https://www.youtube.com/watch?v=1yMozrDEqbg)
 # *These are my top 3 most visited sites on my school account*
-https://clock.facey.rocks/, https://www.eips.ca/, https://www.google.com/?safe=active&ssui=on and, https://docs.google.com/presentation/u/0/?tgif=d
+https://clock.facey.rocks/, https://www.eips.ca/ and https://www.google.com/?safe=active&ssui=on 
 # unordered list
 - apple 1
 - apple 2
@@ -52,4 +52,10 @@ $${\color{blue}My \space favourite \space Lordi \space songs \space are\space Th
 $${\color{red}web 1.0 \space is \space mostly \space one \space way \space communication \space between \space the \space website \space and \space the \space user \space.}$$
 $${\color{green}web 2.0 \space is \space Two \space way \space communication \space and \space usergenerated \space content \space through \space platforms \space like \space social \space media \space and \space blogposts.}$$
 $${\color{yellow}web 3.0 \space is \space a \space More \space personalized \space and \space immersive \space experiences \space that \space focuses \space on \space privacy \space and \space data \space security \space It \space uses \space AI \space \space to \space understand \space user \space intent.}$$
-11. 
+11.1 Web 1.0 is the static web because users mostly just read on the sites and could not easily share or create content.
+
+11.2 Web 2.0 is the social web because creating and sharing content became much easier.
+
+11.3 Web 3.0 is the Semantic web because users use interact with AI content that is much smarter then the other webs.
+
+12. the role that markup languages play in the web are the allow defining content, they enable hypertext and navigation, and they enable data exchange.
