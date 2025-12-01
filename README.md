@@ -59,3 +59,4 @@ $${\color{yellow}web 3.0 \space is \space a \space More \space personalized \spa
 11.3 Web 3.0 is the Semantic web because users use interact with AI content that is much smarter then the other webs.
 
 12. the role that markup languages play in the web are the allow defining content, they enable hypertext and navigation, and they enable data exchange.
+13. 
