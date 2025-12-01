@@ -46,3 +46,10 @@ $${\color{blue}My \space favourite \space Lordi \space songs \space are\space Th
 5. Three examples of internet services that rely on client/server relationships are Gmail, Email and the Cloud.
 6. hypertext is text that has a embeded link in it i.e https://www.youtube.com/watch?v=1yMozrDEqbg .
 7. the way the "web" is connected to the internet is the internet is one masssssssssssive web and its all connected, with search engines in the middle and everthing else is connected to them.
+8. A HTTP works by a client such a something like a web browser sends a HTTP request to a sever to ask to get data or info and the sever sends the data or info as a HTML file or as a code
+9. HTTP is a unsecure data transfer and a HTTPS is a secure version o HTTP that uses encriptions
+10. <img width="882" height="466" alt="image" src="https://github.com/user-attachments/assets/2b67d7d7-9c5a-4743-a1d0-00e38dbcf84d" />
+$${\color{red}web 1.0 \space is \space mostly \space one \space way \space communication \space between \space the \space website \space and \space the \space user \space.}$$
+$${\color{green}web 2.0 \space is \space Two \space way \space communication \space and \space usergenerated \space content \space through \space platforms \space like \space social \space media \space and \space blogposts.}$$
+$${\color{yellow}web 3.0 \space is \space a \space More \space personalized \space and \space immersive \space experiences \space that \space focuses \space on \space privacy \space and \space data \space security \space It \space uses \space AI \space \space to \space understand \space user \space intent.}$$
+11. 
