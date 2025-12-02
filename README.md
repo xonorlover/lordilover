@@ -59,4 +59,15 @@ $${\color{yellow}web 3.0 \space is \space a \space More \space personalized \spa
 11.3 Web 3.0 is the Semantic web because users use interact with AI content that is much smarter then the other webs.
 
 12. the role that markup languages play in the web are the allow defining content, they enable hypertext and navigation, and they enable data exchange.
-13. 
+13. thee are a few similarities between markup and scripting languages such as they both are readable human and use text based syntax and are both essentil for web  development but they also differnt from each other, markup languages decribe what somthing looks like while scripting languages describe how something works, markup languages lack computer logic while scripting languages are made to prefrom logic.
+14. SGML is a framework the defines other markup languages and is the foundation that XML and early versions of HTML were built on,
+    
+14.1 XML is a subset of SGML and is made to be simpler and is focuses on descrbing data and not how it should be displayed, HTML is an application of SGML and was made specifically for the world wide web,
+
+14.2 XHTML is a reformed version of HTML and XML and the aim of XHTML is to diplay the capabilities of HTML with the extensibility of XML,
+
+14.3 DHTML is not a separate language is tis just a match up of HTML CSS and javascript it allows for animated effects,
+
+14.4 MD is a easy markup languages made for the ease of writing and reading and converting to HTML for display and it prioritizes simplicity and readability over the strict structural definitions
+
+14.5 in summery SGML is the foundational language, XML is a more flexible data-focused descendant of SGML, HTML is the web-specific language, initially based on SGML, XHTML is its XML compliant version, DHTML is a collection of technologies (HTML, CSS, JavaScript) for dynamic web content, Markdown is a separate, lightweight markup language focused on ease of use for text formatting and conversion to HTML.
