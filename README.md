@@ -72,4 +72,6 @@ $${\color{yellow}web 3.0 \space is \space a \space More \space personalized \spa
 
 14.5 In summery SGML is the foundational language, XML is a more flexible data-focused descendant of SGML, HTML is the web-specific language, initially based on SGML, XHTML is its XML compliant version, DHTML is a collection of technologies (HTML, CSS, JavaScript) for dynamic web content, Markdown is a separate, lightweight markup language focused on ease of use for text formatting and conversion to HTML.
 
-15. Some of my intrests in computer sci are learning and understanding how to code and what code means, some of my values are, never stop learning, try and improve everyday, and don't let others words get to you. some of my beliefs are that they is some bad music but all geres are equal and none are worse, 
+15. Some of my intrests in computer sci are learning and understanding how to code and what code means, some of my values are, never stop learning, try and improve everyday, and don't let others words get to you. some of my beliefs are that they is some bad music but all geres are equal and none are worse, and just because you don't like a genre of music doesn't me its be or sucks. my resources are the school computers and my phone. My prior learning and experiences are I was in a computer science class in grade 7,8 and 9.
+
+16. With the knowledge I have gotten from CSE1210 some jobs I can get are: a front end developer a web designer or a freelancer or a contractor
