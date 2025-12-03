@@ -70,4 +70,6 @@ $${\color{yellow}web 3.0 \space is \space a \space More \space personalized \spa
 
 14.4 MD is a easy markup languages made for the ease of writing and reading and converting to HTML for display and it prioritizes simplicity and readability over the strict structural definitions
 
-14.5 in summery SGML is the foundational language, XML is a more flexible data-focused descendant of SGML, HTML is the web-specific language, initially based on SGML, XHTML is its XML compliant version, DHTML is a collection of technologies (HTML, CSS, JavaScript) for dynamic web content, Markdown is a separate, lightweight markup language focused on ease of use for text formatting and conversion to HTML.
+14.5 In summery SGML is the foundational language, XML is a more flexible data-focused descendant of SGML, HTML is the web-specific language, initially based on SGML, XHTML is its XML compliant version, DHTML is a collection of technologies (HTML, CSS, JavaScript) for dynamic web content, Markdown is a separate, lightweight markup language focused on ease of use for text formatting and conversion to HTML.
+
+15. Some of my intrests in computer sci are learning and understanding how to code and what code means, some of my values are, never stop learning, try and improve everyday, and don't let others words get to you. some of my beliefs are that they is some bad music but all geres are equal and none are worse, 
